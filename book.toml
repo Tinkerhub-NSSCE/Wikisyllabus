@@ -1,0 +1,10 @@
+[book]
+authors = ["tinkerhub-nssce"]
+language = "en"
+multilingual = false
+src = "src"
+title = "WikiSyllabus"
+
+[output.html.fold]
+enable = true
+level = 1
